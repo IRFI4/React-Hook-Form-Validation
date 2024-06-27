@@ -1,4 +1,4 @@
-import RegForm from "../components/RegForm"
+import RegForm from "../components/RegForm/RegForm"
 import './App.css'
 
 type Props = {}
