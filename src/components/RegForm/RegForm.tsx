@@ -15,11 +15,10 @@ const RegForm = () => {
     })
 
     const submitForm = (data: RegisterInterface): void => {
+        // Write your sending data logic here
         console.log({ data })
         reset()
     }
-
-    console.log(errors)
 
     return (
         <>
